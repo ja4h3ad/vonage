@@ -1,1 +1,0 @@
-In this git repo, you will find the solution files for the SMS API and DLR certification, as well as the SMS Verify Activity
